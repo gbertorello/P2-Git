@@ -1,2 +1,4 @@
 un comentario
 elimino comentario
+otro comentario
+este es un nuevo comentario
